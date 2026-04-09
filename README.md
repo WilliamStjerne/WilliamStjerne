@@ -1,18 +1,18 @@
 # Hi, I'm William Stjerne! 👋
 
-I'm a MSc Energy Systems Engineering student at the University of Southern Denmark (SDU), building on a strong foundation from my BSc in Energy Systems. My studies and projects revolve around optimising renewable energy systems and integrating digital technologies to make energy smarter and more sustainable. I'm passionate about transforming the energy sector through innovation, analysis and creativity.
+I'm an MSc Energy Systems Engineering student at the University of Southern Denmark (SDU), building on a strong foundation from my BSc in Energy Systems. My studies and projects revolve around optimising renewable energy systems and integrating digital technologies to make energy smarter and more sustainable. I'm passionate about transforming the energy sector through innovation, analysis, and creativity.
 
 ## 🎓 Education
 - **Master of Science in Engineering (Energy Systems)** – University of Southern Denmark (SDU), Odense (ongoing)
-  - Focusing on renewable energy solutions, energy systems analysis and the digital transformation of the energy sector.
+  - Focusing on renewable energy solutions, energy systems analysis, and the digital transformation of the energy sector.
 - **Bachelor of Engineering (Energy Systems)** – SDU, Odense
 
 ## 🔧 Skills & Interests
 - **Energy Systems Analysis** – technical modelling and analysis of energy processes, including environmental and societal impacts.
-- **Renewable Energy Technologies** – experience with wind turbines, biomass systems, solar cells, fuel cells and smart grids.
+- **Renewable Energy Technologies** – experience with wind turbines, biomass systems, solar cells, fuel cells, and smart grids.
 - **Digital energy solutions** – leveraging data and digital tools to intelligently optimise energy systems.
 - **Programming & Tools** – Python, MATLAB/Simulink, Java, data analysis, simulation frameworks.
-- **Sustainable development & Climate Communication** – communicating complex energy concepts to companies, policymakers and consumers.
+- **Sustainable development & Climate Communication** – communicating complex energy concepts to companies, policymakers, and consumers.
 
 ## 📍 Projects & Goals
 - **Open-Source Offshore Wind Farm Simulation Framework** – developing a robust simulation framework to model offshore wind farms and evaluate their performance.
