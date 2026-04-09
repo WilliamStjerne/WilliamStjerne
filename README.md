@@ -24,7 +24,7 @@ I'm an MSc Energy Systems Engineering student at the University of Southern Denm
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamStjerne&layout=compact&theme=midnight-purple)
 
 ## 🌱 Let's Connect
-I'm always excited to collaborate on projects related to sustainable energy and digital solutions. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/william-stjerne-hansen-78b475228), check out my repositories, or reach out via GitHub.
+I'm always excited to collaborate on projects related to sustainable energy and digital solutions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/william-stjerne-hansen-78b475228), check out my repositories, or reach out via GitHub.
 
 ---
 
