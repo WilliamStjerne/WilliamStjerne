@@ -28,4 +28,5 @@ I'm always excited to collaborate on projects related to sustainable energy and 
 
 ---
 
-> *“As an energy systems engineer, the world is your oyster. You can develop solutions and new technology to make sure your children and grandchildren have enough energy too.”*
+> *“As an energy systems engineer, the world is your oyster. You can develop solutions and new technology to make
+> sure your children and grandchildren have enough energy too.”*
